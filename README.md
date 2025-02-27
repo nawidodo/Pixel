@@ -4,7 +4,8 @@ Pixel is an iOS app that allows users to adjust the temperature of their photos 
 
 ## Demo
 
-https://github.com/user-attachments/assets/a4bcc879-8390-41d0-9155-350d334532ed
+https://github.com/user-attachments/assets/99fb63b8-2dc5-4d15-9fcb-39ae3f3b8b6f
+
 
 ## Features
 
